@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548437121295",
+    "project_id": "codealpha-fitness-tracke-d9265",
+    "storage_bucket": "codealpha-fitness-tracke-d9265.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548437121295:android:a03b05eff08cc809eb867a",
+        "android_client_info": {
+          "package_name": "com.example.codealpha_fitness_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvi-EYqAlnaQ-7r9i1uLKf-SsRF11BaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
