@@ -1,17 +1,24 @@
-# codealpha_fitness_tracker
+﻿# FitTrack Pro 🏋️
 
-A new Flutter project.
+A beautiful Flutter fitness tracker app built during CodeAlpha Internship.
 
-## Getting Started
+## Features
+- 🔐 Firebase Authentication (Login/Signup)
+- 📊 Daily progress tracking (Steps, Calories, Minutes)
+- 🏃 Activity logging (Running, Walking, Gym, Yoga, Cycling & more)
+- 📅 Calendar history view
+- 📈 Weekly stats with Line & Pie charts
+- 🌙 Dark/Light mode
+- 🎯 Custom daily goals
+- 🔥 Real-time Firebase sync
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Firebase Auth
+- Cloud Firestore
+- fl_chart
+- percent_indicator
+- table_calendar
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built By
+Hafsa Hussain | CodeAlpha Internship 2024
